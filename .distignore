@@ -1,0 +1,32 @@
+# Git & CI
+.git
+.gitignore
+.github
+
+# Node / Composer
+node_modules
+vendor
+package.json
+package-lock.json
+composer.json
+composer.lock
+webpack.config.js
+gulpfile.js
+
+# Development & Docs
+README.md
+phpunit.xml
+phpcs.xml
+tests
+coverage
+
+# Editor / OS
+.DS_Store
+.idea
+.vscode
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
+.env
